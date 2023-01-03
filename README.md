@@ -15,8 +15,5 @@ Islands.
  - Postgres
  - Nginx + Gunicorn
  - Flask
- - HTML5 + TailwindCSS + Alpine.js & jQuery
-
-
-
-
+ - HTML5 + TailwindCSS
+ - HTMX, Hyperscript and jQuery
